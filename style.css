@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: tomato;
+    text-align: center;
+    font-size: 500%;
+    animation-play-state: running;
+    video{
+        width: 20%;
+        height: 40%;
+        animation: rotate 10s linear infinite;
+        border: solid 5px pink;
+        border-radius: 5%;
+        
+
+    }
+}
